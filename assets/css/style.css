@@ -1,0 +1,35 @@
+html {
+    font-family: Noto, Verdana, Helvetica;
+    font-size: 14px;
+    background-color: rgb(255, 142, 159);
+    width:100vw; /* en soi, inutile, voir peut avoir des effets indésirables */
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+#page {
+    margin: auto; /* centrer */
+    background-color: rgb(250, 250, 250);
+    border: 3px solid black;
+    width: 80%;
+}
+
+.entete {
+    text-align: center;
+}
+
+#aboutme {
+    padding-left:5%;
+}
+
+footer {
+    background-color: rgb(230, 230, 230);
+    border: 1px solid black;
+    text-align: center;
+}
