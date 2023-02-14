@@ -2,7 +2,7 @@ html {
     font-family: Noto, Verdana, Helvetica;
     font-size: 14px;
     background-color: rgb(255, 142, 159);
-    width:100vw; /* en soi, inutile, voir peut avoir des effets indésirables */
+    width:100vw; /* en soi, inutile, voire peut avoir des effets indésirables */
 }
 
 h1 {
